@@ -1,4 +1,4 @@
-<p>
+<p align="center">
     <h4>Hi, I am charon!</h4>
 </p>
 
