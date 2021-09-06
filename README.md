@@ -1,9 +1,10 @@
 <p align="center">
-    <img alt="ya" src="https://i.imgur.com/goAuVgg.gif"/>
+    <h4>Hi, I am charon!</h4>
+    <a href="https://www.buymeacoffee.com/charon">Buy me a coffee ☕</a>
 </p>
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/charon">Buy me a coffee ☕</a>
+    <img alt="ya" src="https://i.imgur.com/goAuVgg.gif"/>
 </p>
 
 <p align="center">
