@@ -1,4 +1,6 @@
-<img alt="ya" src="https://i.imgur.com/goAuVgg.gif" align="right"/>
+<p align="center">
+    <img alt="ya" src="https://i.imgur.com/goAuVgg.gif" align="right"/>
+</p>
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/charon">Buy me a coffee ☕</a>
