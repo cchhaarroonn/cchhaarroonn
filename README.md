@@ -1,8 +1,4 @@
 <p align="center">
-    <h4>Hi, I am charon!</h4>
-</p>
-
-<p align="center">
     <a href="https://www.buymeacoffee.com/charon">Buy me a coffee ☕</a>
 </p>
 
