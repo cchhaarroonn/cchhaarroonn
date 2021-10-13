@@ -1,9 +1,5 @@
 <p align="center">
-    <a href="https://www.buymeacoffee.com/charon">Buy me a coffee ☕</a>
-</p>
-
-<p align="center">
-    <img alt="ya" src="https://i.imgur.com/MShy42H.gif"/>
+    <img alt="ya" src="https://c.tenor.com/1AfyKjXO1hkAAAAC/boobs-anime.gif"/>
 </p>
 
 <p align="center">
