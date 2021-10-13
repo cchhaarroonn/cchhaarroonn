@@ -26,6 +26,12 @@
 
 ---
 
+#### OS
+- ![windows](https://img.shields.io/badge/-Windows-F50069?style=flat-square&logo=windows)
+- ![linux](https://img.shields.io/badge/-Linux-F50069?style=flat-square&logo=linux)
+
+---
+
 <p align="center">
     <img src="https://img.shields.io/badge/-charon_1678-F50069?style=flat-square&logo=discord"/></a>
     <a href="https://steamcommunity.com/id/CharonDaddy/"><img src="https://img.shields.io/badge/-charon-F50069?style=flat-square&logo=steam"/></a>
