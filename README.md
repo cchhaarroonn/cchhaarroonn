@@ -20,14 +20,14 @@
 ---
 
 #### Currently learning
-- ![java](https://img.shields.io/badge/-Python-F50069?style=flat-square&logo=java)
+- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=java)
 
 ---
 
 #### IDE
 - ![ide](https://img.shields.io/badge/-VS_Code-F50069?style=flat-square&logo=visual-studio-code)
-- ![ide](https://img.shields.io/badge/-VS_Code-F50069?style=flat-square&logo=eclipse)
-- 
+- ![ide](https://img.shields.io/badge/-Eclipse-F50069?style=flat-square&logo=eclipse)
+
 ---
 
 <p align="center">
