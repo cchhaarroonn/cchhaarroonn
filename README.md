@@ -16,7 +16,7 @@
 ---
 
 #### Currently learning
-- ![C++](https://img.shields.io/badge/-C++-F50069?style=flat-square&logo=c++)
+- ![C++](https://img.shields.io/badge/-c%2B%2B-F50069?style=flat-square&logo=c%2B%2B)
 
 ---
 
