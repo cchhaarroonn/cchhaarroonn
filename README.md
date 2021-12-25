@@ -22,7 +22,7 @@
 
 #### IDE
 - ![ide](https://img.shields.io/badge/-VS_Code-F50069?style=flat-square&logo=visual-studio-code)
-- ![ide](https://img.shields.io/badge/-Code-Blocks-F50069?style=flat-square&logo=code-blocks)
+- ![ide](https://img.shields.io/badge/-CodeBlocks-F50069?style=flat-square&logo=codeblocks)
 
 ---
 
