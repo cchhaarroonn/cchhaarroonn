@@ -22,17 +22,9 @@
 
 #### IDE
 - ![ide](https://img.shields.io/badge/-VS_Code-F50069?style=flat-square&logo=visual-studio-code)
-- ![ide](https://img.shields.io/badge/-VS_Community-F50069?style=flat-square&logo=visual-studio-community)
+- ![ide](https://img.shields.io/badge/-CodeBlocks-F50069?style=flat-square&logo=code-blocks)
 
 ---
 
 #### OS
 - ![windows](https://img.shields.io/badge/-Windows-F50069?style=flat-square&logo=windows)
-- ![linux](https://img.shields.io/badge/-Linux-F50069?style=flat-square&logo=linux)
-
----
-
-<p align="center">
-    <img src="https://img.shields.io/badge/-charon_1678-F50069?style=flat-square&logo=discord"/></a>
-    <a href="https://steamcommunity.com/id/CharonDaddy/"><img src="https://img.shields.io/badge/-charon-F50069?style=flat-square&logo=steam"/></a>
-</p>
