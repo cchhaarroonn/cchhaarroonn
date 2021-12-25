@@ -16,7 +16,7 @@
 ---
 
 #### Currently learning
-- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=java)
+- ![cpp](https://img.shields.io/badge/-Cpp-F50069?style=flat-square&logo=cpp)
 
 ---
 
