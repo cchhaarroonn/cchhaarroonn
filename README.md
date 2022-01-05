@@ -29,8 +29,3 @@
 #### OS
 - ![windows](https://img.shields.io/badge/-Windows-F50069?style=flat-square&logo=windows)
 - ![ubuntu](https://img.shields.io/badge/-Ubuntu-F50069?style=flat-square&logo=ubuntu)
-
----
-
-### Contact me
-- ![ᶜʰᵃʳᵒⁿ#1337](https://img.shields.io/badge/-Discord-F50069?style=flat-square&logo=discord)
