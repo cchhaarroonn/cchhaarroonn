@@ -2,7 +2,8 @@
     <img alt="ya" src="https://c.tenor.com/1AfyKjXO1hkAAAAC/boobs-anime.gif"/>
 </p>
 
-<p align="center">
+<p align="center" style="display:inline-block;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cchhaarroonn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cchhaarroonn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 </p>
 
