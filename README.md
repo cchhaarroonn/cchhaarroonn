@@ -33,4 +33,4 @@
 ---
 
 ### Contact me
-- ![discord](https://img.shields.io/badge/-ᶜʰᵃʳᵒⁿ#1337-F50069?style=flat-square&logo=discord)
+- ![ᶜʰᵃʳᵒⁿ#1337](https://img.shields.io/badge/-Discord-F50069?style=flat-square&logo=discord)
