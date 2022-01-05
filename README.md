@@ -1,5 +1,5 @@
 <div align="center">
-   <h2>Hi, I'm charon 👋 I'm a Croatian developer</h2>
+   <h2>Well hello there, it is nice to see you!</h2>
 </div>
 
 <p align="center" style="display:inline-block;">
