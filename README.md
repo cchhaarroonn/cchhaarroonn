@@ -33,6 +33,4 @@
 ---
 
 ###Contact me
-<center>
 - ![discord](https://img.shields.io/badge/-Discord-F50069?style=flat-square&logo=discord)
-</center>
