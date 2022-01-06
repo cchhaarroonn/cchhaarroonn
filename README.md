@@ -18,7 +18,7 @@
 ---
 
 #### Currently learning
-- ![C++](https://img.shields.io/badge/-c%2B%2B-F50069?style=flat-square&logo=c%2B%2B)
+- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=java)
 
 ---
 
