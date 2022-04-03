@@ -26,7 +26,7 @@
 #### IDE
 - ![ide](https://img.shields.io/badge/-VS_Code-F50069?style=flat-square&logo=visual-studio-code)
 - ![ide](https://img.shields.io/badge/-Sublime_Text-F50069?style=flat-square&logo=sublime-text)
-- ![ide](https://img.shields.io/badge/-Eclipse-F50069?style=flat-square&logo=eclipse)
+- ![ide](https://img.shields.io/badge/-Intellij-F50069?style=flat-square&logo=Intellij)
 
 ---
 
