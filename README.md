@@ -1,4 +1,3 @@
-<div align="center">
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=elixir&logoColor=red&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red&logo=elixir&logoColor=red)
 <a href="https://github.com/owersite?tab=repositories">
@@ -40,5 +39,3 @@
 #### OS
 - ![windows](https://img.shields.io/badge/-Windows-F50069?style=flat-square&logo=windows)
 - ![mint](https://img.shields.io/badge/-Mint-F50069?style=flat-square&logo=debian)
-
-   </div>
