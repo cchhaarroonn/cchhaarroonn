@@ -32,7 +32,7 @@
 
 ---
 
-![Stalkers Counter](https://badges.pufler.dev/visits/cchhaarroonn/cchhaarroonn?style=for-the-badge&color=pink&logo=elixir&logoColor=pink&label=Stalkers+Counter)
+![Stalkers Counter](https://badges.pufler.dev/visits/cchhaarroonn/cchhaarroonn?style=for-the-badge&color=purple&logo=elixir&logoColor=purple&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=pink&logo=elixir&logoColor=pink)
 <a href="https://github.com/owersite?tab=repositories">
     <img src="https://badges.pufler.dev/repos/owersite?style=for-the-badge&logo=elixir&logoColor=pink&color=pink&cacheSeconds=3600" alt="Repositories"/>
