@@ -1,7 +1,3 @@
-<div align="center">
-   <h2>Hello there, it is nice to see you fellow developer!</h2>
-</div>
-
 #### My current statistics
 <p align="center" style="display:inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cchhaarroonn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
