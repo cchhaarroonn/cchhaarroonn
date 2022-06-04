@@ -35,7 +35,7 @@
 ![Stalkers Counter](https://badges.pufler.dev/visits/cchhaarroonn/cchhaarroonn?style=for-the-badge&color=white&logo=elixir&logoColor=white&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/cchhaarroonn?style=for-the-badge&color=white&logo=elixir&logoColor=white)
 <a href="https://github.com/cchhaarroonn?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/owcchhaarroonnersite?style=for-the-badge&logo=elixir&logoColor=white&color=white&cacheSeconds=3600" alt="Repositories"/>
+    <img src="https://badges.pufler.dev/repos/cchhaarroonn?style=for-the-badge&logo=elixir&logoColor=white&color=white&cacheSeconds=3600" alt="Repositories"/>
 </a>
 <a href="https://github.com/cchhaarroonn">
     <img src="https://img.shields.io/github/stars/cchhaarroonn?color=white&logo=elixir&logoColor=white&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
