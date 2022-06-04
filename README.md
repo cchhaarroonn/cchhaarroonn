@@ -32,11 +32,11 @@
 
 ---
 
-![Stalkers Counter](https://badges.pufler.dev/visits/cchhaarroonn/cchhaarroonn?style=for-the-badge&color=pruple&logo=elixir&logoColor=pruple&label=Stalkers+Counter)
-![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=pruple&logo=elixir&logoColor=pruple)
+![Stalkers Counter](https://badges.pufler.dev/visits/cchhaarroonn/cchhaarroonn?style=for-the-badge&color=pink&logo=elixir&logoColor=pink&label=Stalkers+Counter)
+![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=pink&logo=elixir&logoColor=pink)
 <a href="https://github.com/owersite?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/owersite?style=for-the-badge&logo=elixir&logoColor=pruple&color=pruple&cacheSeconds=3600" alt="Repositories"/>
+    <img src="https://badges.pufler.dev/repos/owersite?style=for-the-badge&logo=elixir&logoColor=pink&color=pink&cacheSeconds=3600" alt="Repositories"/>
 </a>
 <a href="https://github.com/owersite">
-    <img src="https://img.shields.io/github/stars/owersite?color=pruple&logo=elixir&logoColor=pruple&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/owersite?color=pink&logo=elixir&logoColor=pink&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
 </a>
