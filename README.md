@@ -1,3 +1,6 @@
+![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=elixir&logoColor=red&label=Stalkers+Counter)
+![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red&logo=elixir&logoColor=red)
+
 #### My current statistics
 <p align="center" style="display:inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cchhaarroonn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
