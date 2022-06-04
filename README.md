@@ -1,3 +1,4 @@
+<div align="center">
 ![Stalkers Counter](https://badges.pufler.dev/visits/Owersite/Owersite?style=for-the-badge&color=red&logo=elixir&logoColor=red&label=Stalkers+Counter)
 ![Followers:](https://img.shields.io/github/followers/owersite?style=for-the-badge&color=red&logo=elixir&logoColor=red)
 <a href="https://github.com/owersite?tab=repositories">
@@ -6,6 +7,7 @@
 <a href="https://github.com/owersite">
     <img src="https://img.shields.io/github/stars/owersite?color=red&logo=elixir&logoColor=red&style=for-the-badge&cacheSeconds=3600" alt="Stars"/>
 </a>
+    </div>
 
 #### My current statistics
 <p align="center" style="display:inline-block;">
