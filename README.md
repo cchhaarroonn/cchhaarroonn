@@ -8,7 +8,7 @@
 
 #### Languages
 - ![python](https://img.shields.io/badge/-Python-F50069?style=flat-square&logo=python)
-- ![java](https://img.shields.io/badge/-Java8-F50069?style=flat-square&logo=Java)
+- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=Java)
 - ![html](https://img.shields.io/badge/-HTML-F50069?style=flat-square&logo=HTML5)
 - ![css](https://img.shields.io/badge/-CSS-F50069?style=flat-square&logo=CSS3)
 
@@ -31,3 +31,8 @@
 - ![mint](https://img.shields.io/badge/-Mint-F50069?style=flat-square&logo=debian)
 
 ---
+
+<p align="center">
+    <a href="https://discord.gg/XTPbCSaZsa"><img src="https://img.shields.io/badge/-charon_9999-F50069?style=flat-square&logo=discord"/></a>
+    <a href="https://steamcommunity.com/id/CharonDaddy"><img src="https://img.shields.io/badge/-narumii-F50069?style=flat-square&logo=steam"/></a>
+</p>
