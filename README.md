@@ -15,7 +15,7 @@
 ---
 
 #### Currently learning
-- ![java](https://img.shields.io/badge/-C#-F50069?style=flat-square&logo=Csharp)
+- ![java](https://img.shields.io/badge/-CSharp-F50069?style=flat-square&logo=Csharp)
 
 ---
 
