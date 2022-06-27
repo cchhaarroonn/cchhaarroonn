@@ -34,5 +34,5 @@
 
 <p align="center">
     <a href="https://discord.gg/XTPbCSaZsa"><img src="https://img.shields.io/badge/-charon_9999-F50069?style=flat-square&logo=discord"/></a>
-    <a href="https://steamcommunity.com/id/CharonDaddy"><img src="https://img.shields.io/badge/-narumii-F50069?style=flat-square&logo=steam"/></a>
+    <a href="https://steamcommunity.com/id/CharonDaddy"><img src="https://img.shields.io/badge/-charon-F50069?style=flat-square&logo=steam"/></a>
 </p>
