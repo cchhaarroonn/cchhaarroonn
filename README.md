@@ -8,7 +8,7 @@
 
 #### Languages
 - ![python](https://img.shields.io/badge/-Python-F50069?style=flat-square&logo=python)
-- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=coffee)
+- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=Java)
 - ![html](https://img.shields.io/badge/-HTML-F50069?style=flat-square&logo=HTML5)
 - ![css](https://img.shields.io/badge/-CSS-F50069?style=flat-square&logo=CSS3)
 - ![csharp](https://img.shields.io/badge/-CS-F50069?style=flat-square&logo=Csharp)
