@@ -15,7 +15,7 @@
 ---
 
 #### Currently learning
-- ![php](https://img.shields.io/badge/-PHP-F50069?style=flat-square&logo=PHP)
+- ![golang](https://img.shields.io/badge/-GOLANG-F50069?style=flat-square&logo=GOLANG)
 
 ---
 
