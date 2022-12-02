@@ -15,7 +15,7 @@
 ---
 
 #### Currently learning
-- ![golang](https://img.shields.io/badge/-GOLANG-F50069?style=flat-square&logo=GOLANG)
+- ![golang](https://img.shields.io/badge/-Golang-F50069?style=flat-square&logo=Go)
 
 ---
 
