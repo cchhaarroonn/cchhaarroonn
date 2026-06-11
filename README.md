@@ -1,40 +1,46 @@
-#### My current statistics
-<p align="center" style="display:inline-block;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cchhaarroonn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cchhaarroonn&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-</p>
+# Bok, ja sam cchhaarroonn! 👋
+
+### 🚀 O meni
+Ja sam strastveni developer/entuzijast koji voli rješavati probleme i graditi zanimljive projekte. Trenutno sam fokusiran na usavršavanje svojih vještina i doprinos open-source zajednici.
+
+- 🔭 **Trenutno radim na:** [Ime tvog glavnog projekta ili "učenju novih tehnologija"]
+- 🌱 **Trenutno učim:** [Npr. React, Go, Docker, Advanced Python...]
+- 👯 **Želim surađivati na:** Zanimljivim open-source projektima.
+- 💬 **Pitaj me o:** [Tvoje omiljene teme, npr. web dev, automatizacija, gaming...]
+- ⚡ **Zabavna činjenica:** [Ovdje napiši nešto opušteno o sebi, npr. "Pijem previše kave" ili neki hobi]
 
 ---
 
-#### Languages
-- ![java](https://img.shields.io/badge/-Java-F50069?style=flat-square&logo=Java)
-- ![golang](https://img.shields.io/badge/-Golang-F50069?style=flat-square&logo=Go)
-- ![python](https://img.shields.io/badge/-Python-F50069?style=flat-square&logo=python)
-- ![html](https://img.shields.io/badge/-HTML-F50069?style=flat-square&logo=HTML5)
-- ![css](https://img.shields.io/badge/-CSS-F50069?style=flat-square&logo=CSS3)
-- ![csharp](https://img.shields.io/badge/-CS-F50069?style=flat-square&logo=Csharp)
-- ![basic](https://img.shields.io/badge/-Basic-F50069?style=flat-square&logo=Basic)
----
+### 🛠️ Tehnologije i alati
 
-#### Currently learning
-- ![C++](https://img.shields.io/badge/-C++-F50069?style=flat-square&logo=C++)
+Ovdje su neki od alata i jezika koje koristim (slobodno izbaci ili dodaj što ti odgovara):
 
----
+🎨 **Frontend:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### IDE
-- ![ide](https://img.shields.io/badge/-VS_Code-F50069?style=flat-square&logo=visual-studio-code)
-- ![ide](https://img.shields.io/badge/-Sublime_Text-F50069?style=flat-square&logo=sublime-text)
-- ![ide](https://img.shields.io/badge/-IntelliJ_IDEA-F50069?style=flat-square&logo=IntellijIdea)
-- ![ide](https://img.shields.io/badge/-Eclipse-F50069?style=flat-square&logo=Eclipse)
----
+⚙️ **Backend & Jezici:**
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### OS
-- ![windows](https://img.shields.io/badge/-Windows-F50069?style=flat-square&logo=windows)
-- ![mint](https://img.shields.io/badge/-Mint-F50069?style=flat-square&logo=debian)
+🧰 **Alati & Ostalo:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+### 📊 GitHub Statistika
 
 <p align="center">
-    <a href="https://discord.gg/XTPbCSaZsa"><img src="https://img.shields.io/badge/-charonjeretard-F50069?style=flat-square&logo=discord"/></a>
-    <a href="https://steamcommunity.com/id/CharonDaddy"><img src="https://img.shields.io/badge/-charon-F50069?style=flat-square&logo=steam"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cchhaarroonn&show_icons=true&theme=radical" alt="cchhaarroonn GitHub Stats" />
 </p>
+
+---
+
+### 🤝 Povežimo se!
+- **LinkedIn:** [Tvoj LinkedIn profil](https://linkedin.com/in/tvoje-ime)
+- **E-mail:** tvoj.email@example.com
+
+⭐️ *Slobodno baci pogled na moje repozitorije i ostavi zvjezdicu ako ti se nešto svidi!*
