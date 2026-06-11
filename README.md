@@ -22,7 +22,7 @@ Ovdje su neki od alata i jezika koje koristim (slobodno izbaci ili dodaj što ti
 
 ⚙️ **Backend & Jezici:**
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-%236DA55F.svg?style=for-the-badge&logo=golang&logoColor=white)
 
 🧰 **Alati & Ostalo:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
