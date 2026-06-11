@@ -37,7 +37,7 @@ Ja sam developer fokusiran na izgradnju modernih web aplikacija, rad s bazama po
 
 ---
 
-### 🛠️ Certifikati
+### 🎖️ Certifikati
 
 [![Cisco](https://img.shields.io/badge/Cisco-white?style=flat-square&logo=cisco)](https://www.credly.com/badges/1835ea54-1552-43c4-bbb8-2812f35541bc/public_url)
 [![Cisco](https://img.shields.io/badge/Cisco-white?style=flat-square&logo=cisco)](https://www.credly.com/badges/3271e568-0499-4f80-9008-aa1eab9ccc94/public_url)
